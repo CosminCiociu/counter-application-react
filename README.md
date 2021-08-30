@@ -1,4 +1,4 @@
-#	**About chat-application**
+#	**About counter-application-react**
 In this application I learned the basics or React
 
 # Getting Started with Create React App
